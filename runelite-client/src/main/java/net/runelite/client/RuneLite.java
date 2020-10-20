@@ -89,7 +89,6 @@ import org.slf4j.LoggerFactory;
 
 @Singleton
 @Slf4j
-//comment right here to test the git stuff
 public class RuneLite
 {
 	public static final File RUNELITE_DIR = new File(System.getProperty("user.home"), ".runelite");
